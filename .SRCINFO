@@ -1,8 +1,8 @@
-pkgbase = android-screenrecorder-git
+pkgbase = android-screen-recorder-git
 	pkgdesc = Android screen recorder.
 	pkgver = 0.0.0.0.0.0.0.0.0.0.0.0.0.1.r0.ga1606fda3f45c2162682de8a0bb8ee9e8f6082c2
 	pkgrel = 1
-	url = https://github.com/themartiancompany/android-screenrecorder
+	url = https://github.com/themartiancompany/android-screen-recorder
 	arch = any
 	groups = hip
 	groups = hip-git
@@ -13,9 +13,9 @@ pkgbase = android-screenrecorder-git
 	makedepends = jq
 	depends = libcrash-bash
 	depends = tsu
-	provides = android-screenrecorder=0.0.0.0.0.0.0.0.0.0.0.0.0.1.r0.ga1606fda3f45c2162682de8a0bb8ee9e8f6082c2
-	conflicts = android-screenrecorder
-	source = android-screenrecorder.tar.gz::https://github.com/themartiancompany/android-screenrecorder/archive/refs/heads/master.tar.gz
+	provides = android-screen-recorder=0.0.0.0.0.0.0.0.0.0.0.0.0.1.r0.ga1606fda3f45c2162682de8a0bb8ee9e8f6082c2
+	conflicts = android-screen-recorder
+	source = android-screen-recorder.tar.gz::https://github.com/themartiancompany/android-screen-recorder/archive/refs/heads/master.tar.gz
 	sha256sums = SKIP
 
-pkgname = android-screenrecorder-git
+pkgname = android-screen-recorder-git
